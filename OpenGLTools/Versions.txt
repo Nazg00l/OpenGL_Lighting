@@ -1,0 +1,4 @@
+since I have renamed the folders after the extraction
+the versions was as follows:
+glew-2.0.0-win32
+glfw-3.2.1.bin.WIN32
