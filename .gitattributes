@@ -65,3 +65,6 @@
 *.css linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
+*.C linguist-detectable=false
+*.h linguist-language=C++
+*.cpp linguist-language=C++
